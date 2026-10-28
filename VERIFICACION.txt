@@ -1,0 +1,20 @@
+OK: Cupcake
+OK: Choose Flavor
+OK: Subtotal $12.00
+OK: Next deshabilitado sin seleccion
+OK: Choose Pickup Date
+OK: Subtotal $15.00
+OK: Order Summary
+OK: 6 cupcakes
+OK: Chocolate
+OK: Choose Pickup Date
+OK: Subtotal $12.00
+OK: Order Summary
+OK: selector Android de compartir, con total $12.00
+OK: Cupcake
+OK: Subtotal $2.00
+OK: Cupcake
+OK: Subtotal $24.00
+OK: Cupcake
+OK: Cupcake
+OK: cancelacion desde sabor, fecha y resumen; reinicio del pedido; boton del sistema Atras
